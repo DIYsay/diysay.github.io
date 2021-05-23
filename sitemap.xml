@@ -2,7 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://diysay.cn/about/index.html</loc>
+    <loc>https://diysay.cn/links/index.html</loc>
+    
+    <lastmod>2021-05-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/index.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -16,13 +23,6 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/links/index.html</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://diysay.cn/message/index.html</loc>
     
     <lastmod>2021-05-21</lastmod>
@@ -30,7 +30,14 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/tags/index.html</loc>
+    <loc>https://diysay.cn/about/index.html</loc>
+    
+    <lastmod>2021-05-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/posts/2418998582.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -51,13 +58,6 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/posts/2418998582.html</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://diysay.cn/posts/2644769374.html</loc>
     
     <lastmod>2021-05-21</lastmod>
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/posts/1243066710.html</loc>
+    <loc>https://diysay.cn/posts/310170141.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -79,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/posts/3541647422.html</loc>
+    <loc>https://diysay.cn/posts/1243066710.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/posts/310170141.html</loc>
+    <loc>https://diysay.cn/posts/3541647422.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -137,34 +137,6 @@
 
   
   <url>
-    <loc>https://diysay.cn/tags/APlayer/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/ajax/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/json/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://diysay.cn/tags/Vercel/</loc>
     <lastmod>2021-05-23</lastmod>
     <changefreq>daily</changefreq>
@@ -193,7 +165,56 @@
   </url>
   
   <url>
+    <loc>https://diysay.cn/tags/APlayer/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/ajax/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/json/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://diysay.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/gitalk/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/jsDelivr/</loc>
+    <lastmod>2021-05-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2021-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -215,27 +236,6 @@
   
   <url>
     <loc>https://diysay.cn/tags/%E5%85%8D%E8%B4%B9%E5%9F%9F%E5%90%8D/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/jsDelivr/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2021-05-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/gitalk/</loc>
     <lastmod>2021-05-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
