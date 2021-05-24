@@ -2,14 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://diysay.cn/about/index.html</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/message/index.html</loc>
+    <loc>https://diysay.cn/links/index.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -23,7 +16,7 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/links/index.html</loc>
+    <loc>https://diysay.cn/message/index.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -31,6 +24,13 @@
   
   <url>
     <loc>https://diysay.cn/tags/index.html</loc>
+    
+    <lastmod>2021-05-21</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/about/index.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -65,6 +65,13 @@
   </url>
   
   <url>
+    <loc>https://diysay.cn/posts/310170141.html</loc>
+    
+    <lastmod>2021-05-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://diysay.cn/posts/1243066710.html</loc>
     
     <lastmod>2021-05-21</lastmod>
@@ -79,6 +86,13 @@
   </url>
   
   <url>
+    <loc>https://diysay.cn/posts/3541647422.html</loc>
+    
+    <lastmod>2021-05-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://diysay.cn/posts/3455656433.html</loc>
     
     <lastmod>2021-05-21</lastmod>
@@ -87,20 +101,6 @@
   
   <url>
     <loc>https://diysay.cn/posts/2447441322.html</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/posts/3541647422.html</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/posts/310170141.html</loc>
     
     <lastmod>2021-05-21</lastmod>
     
@@ -200,14 +200,7 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/tags/jsDelivr/</loc>
-    <lastmod>2021-05-24</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://diysay.cn/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/</loc>
+    <loc>https://diysay.cn/tags/gitalk/</loc>
     <lastmod>2021-05-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -235,7 +228,14 @@
   </url>
   
   <url>
-    <loc>https://diysay.cn/tags/gitalk/</loc>
+    <loc>https://diysay.cn/tags/jsDelivr/</loc>
+    <lastmod>2021-05-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://diysay.cn/tags/%E5%8D%9A%E5%AE%A2%E4%BC%98%E5%8C%96/</loc>
     <lastmod>2021-05-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
